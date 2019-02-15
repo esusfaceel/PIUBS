@@ -1,0 +1,14 @@
+.border{border: solid 1px black; border-radius: 3px;}
+#logo{width: 100%; max-width: 300px; vertical-align: middle;}
+.img-menu{width: 35; vertical-align: middle; margin-left: auto;}
+.title{font-size: 32px;}
+.vertical-center{vertical-align: middle;}
+@media screen and (min-width: 993px) {
+    #divMobile { display: none !important; }
+}
+.bigtextarea{height: 6rem;}
+@media only screen and (max-width: 645px) {
+	input[type='file'] {
+		width: 70%;
+	}
+}
